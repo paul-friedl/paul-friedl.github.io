@@ -1,3 +1,3 @@
-# paul-friedl.github.io
+# Paul Friedl
 
 ### text ###
