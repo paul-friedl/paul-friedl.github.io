@@ -1,6 +1,6 @@
 # Paul Friedl
 
-I'm currently a JSD candidate at Humboldt University Berlin and an affiliate scholar at the Information Law Institute at New York University.
+body{I'm currently a JSD candidate at Humboldt University Berlin and an affiliate scholar at the Information Law Institute at New York University.}
 
 ### text ###
 
