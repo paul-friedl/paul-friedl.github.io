@@ -13,6 +13,7 @@ Paul Friedl (2020) "[A New European Fundamental Rights Court: The German Constit
 
 Paul Friedl (2019) "[New Laws of Forgetting: The German Constitutional Court on the Right to be Forgotten](https://europeanlawblog.eu/2019/12/12/new-laws-of-forgetting-the-german-constitutional-court-on-the-right-to-be-forgotten/)", European Law Blog 2019(12)
 
+Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in: Dimitri Kessler & Elgin Keskin (eds.), "[Regulierung des Wirtschaftslebens in Deutschland und der Ukraine](https://www.beck-shop.de/kessler-keskin-regulierung-wirtschaftslebens-strafrecht-deutschland-ukraine/product/16689034)"
 
 
 ## Talks and presentations
