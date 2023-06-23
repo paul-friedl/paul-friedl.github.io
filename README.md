@@ -19,9 +19,9 @@ Paul Friedl (2019) "[New Laws of Forgetting: The German Constitutional Court on 
 
 ## Service
 
-## CV
-
 ## Misc
 **Music** is life, which is why I really like it. If you're looking for playlists that include both annoyingly good radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
+
+**Movies**, too, are life and sometimes when I watch one I list and review it [here](https://mubi.com/users/11360000).
 
 "There's Nothing New / Under The Sun, / But **There Are New Suns**", Octavia E. Butler
