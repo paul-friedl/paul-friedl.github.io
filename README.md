@@ -19,7 +19,7 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 ## Talks and presentations
 
 ## CV
-[Here's my CV](./cv_paulfriedl.pdf)
+Here's my [CV](./cv_paulfriedl.pdf).
 
 ## Service
 
