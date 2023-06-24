@@ -17,11 +17,28 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations
+"Dis/similarities in the Design and Development of Legal and Algorithmic Normative Systems: the Case of Perspective API”
+  * Privacy Research Group, NYU, October 2022
+  * Information Law Institute, NYU, October 2022
+  * Conference “Verdikte, Verfahren, Verlagerungen", Weizenbaum Institute, Berlin
+
+"Rechtliche Bedingungen der Verkehrswende im urbanen Raum", Forschungsgruppe „Digitale Mobilität und gesellschaftliche Differenzierung“,
+Wissenschaftszentrum Berlin für Sozialforschung, Berlin, June 2022
+
+"Reasonable Expectations of Privacy: an Update for the Age of Algorithms", ACM Conference on Fairness, Accountability, and Transparency, June 2021
+
+"(Im)Mobilitätsfiktionen: Berlin zwischen Teslafuturismus und autofreier Innenstadt", Klasse Klima, Universität der Künste, Berlin, February 2021
+
+"Privacy Law and the Social Construction of Identity: An Interrelated History", World Conference of the International Association for
+Philosophy of Law and Social Philosophy, Lucerne, July 2019
 
 ## CV
 Here's my [CV](./cv_paulfriedl.pdf).
 
-## Service
+## Work
+# Teaching
+
+# Academic
 
 ## Misc
 **Music** is life, which is why I really like it. If you're looking for playlists that include both annoyingly good radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
