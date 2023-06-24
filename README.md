@@ -37,11 +37,14 @@ Here's my [CV](./cv_paulfriedl.pdf).
 
 ## Work
 ### Teaching
+"Law in the Age of Algorithms: Interdisciplinary Investigations" [[Syllabus](./litaoa_friedl_syllabus.pdf)], Humboldt Summer University 2022
+Seminar "Constitutional Law II" (fundamental rights law)
+Seminar "Constitutional Law I" (law of state institutions)
 
 ### Academic
 
 ## Misc
-**Music** is life, which is why I really like it. If you're looking for playlists that include both annoyingly good radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
+**Music** is life, which is why I really like it. If you're looking for a playlist that includes both annoyingly wonderful radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
 
 **Movies**, too, are life and sometimes when I watch one I list and review it [here](https://mubi.com/users/11360000).
 
