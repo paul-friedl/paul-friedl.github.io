@@ -38,8 +38,10 @@ Here's my [CV](./cv_paulfriedl.pdf).
 ## Work
 ### Teaching
 "Law in the Age of Algorithms: Interdisciplinary Investigations" [[Syllabus](./litaoa_friedl_syllabus.pdf)], Humboldt Summer University 2022
-Seminar "Constitutional Law II" (fundamental rights law)
-Seminar "Constitutional Law I" (law of state institutions)
+
+Seminar "Constitutional Law II" (fundamental rights law), Humboldt University Berlin
+
+Seminar "Constitutional Law I" (law of state institutions), Humboldt University Berlin
 
 ### Academic
 
