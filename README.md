@@ -36,9 +36,9 @@ Philosophy of Law and Social Philosophy, Lucerne, July 2019
 Here's my [CV](./cv_paulfriedl.pdf).
 
 ## Work
-# Teaching
+### Teaching
 
-# Academic
+### Academic
 
 ## Misc
 **Music** is life, which is why I really like it. If you're looking for playlists that include both annoyingly good radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
