@@ -37,13 +37,26 @@ Here's my [CV](./cv_paulfriedl.pdf).
 
 ## Work
 ### Teaching
-"Law in the Age of Algorithms: Interdisciplinary Investigations" [[Syllabus](./litaoa_friedl_syllabus.pdf)], Humboldt Summer University 2022
+"Law in the Age of Algorithms: Interdisciplinary Investigations" [[Syllabus](./litaoa_friedl_syllabus.pdf)], Humboldt Summer University, 2022
 
-Seminar "Constitutional Law II" (fundamental rights law), Humboldt University Berlin
+Seminar "Constitutional Law II" (fundamental rights law), Humboldt University Berlin, 2022
 
-Seminar "Constitutional Law I" (law of state institutions), Humboldt University Berlin
+Seminar "Constitutional Law I" (law of state institutions), Humboldt University Berlin, 2021
 
 ### Academic
+Organization of a conference and moderation of a discussion on AI regulation with Prof. Philipp Hacker and Prof. Mireille Hildebrandt, "Markets, Governance and European Law in the Algorithmic Era" Conference, July 2021
+
+Moderation of a panel discussion on electoral law, Law & Society Institute, Berlin, April 2021
+
+Moderation of a panel discussion on European integration through law, Law & Society Institute, Berlin, February 2021
+
+Organization of a university exchange between Humboldt University Berlin and Tbilisi University, November 2019
+
+Organization of a workshop on "Privacy, Dignity and Human Identities", the World Conference of the International Association for
+Philosophy of Law and Social Philosophy, Lucerne, July 2019
+
+### Freelance and Community Service
+Legal support (drafting of bill proposals, drafting of court briefs, legal advising) for a Berlin grassroots movement working towards reducing motorized transport within the city of Berlin, 2019-today
 
 ## Misc
 **Music** is life, which is why I really like it. If you're looking for a playlist that includes both annoyingly wonderful radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
