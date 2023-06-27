@@ -55,7 +55,7 @@ Organization of a university exchange between Humboldt University Berlin and Tbi
 Organization of a workshop on "Privacy, Dignity and Human Identities", the World Conference of the International Association for
 Philosophy of Law and Social Philosophy, Lucerne, July 2019
 
-### Freelance and Community Service
+### Community Service
 Legal support (drafting of bill proposals, drafting of court briefs, legal advising) for a Berlin grassroots movement working towards reducing motorized transport within the city of Berlin, 2019-today
 
 ## Misc
