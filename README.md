@@ -17,10 +17,12 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations
+"The EU's AI Act and its potential implications for Large Language Models", Roundtable on LLMs, Law & Policy, New York, July 2023
+
 "Dis/similarities in the Design and Development of Legal and Algorithmic Normative Systems: the Case of Perspective API”
   * Privacy Research Group, NYU, October 2022
   * Information Law Institute, NYU, October 2022
-  * Conference “Verdikte, Verfahren, Verlagerungen", Weizenbaum Institute, Berlin
+  * Conference “Verdikte, Verfahren, Verlagerungen", Weizenbaum Institute, Berlin, March 2022
 
 "Rechtliche Bedingungen der Verkehrswende im urbanen Raum", Forschungsgruppe „Digitale Mobilität und gesellschaftliche Differenzierung“,
 Wissenschaftszentrum Berlin für Sozialforschung, Berlin, June 2022
@@ -44,6 +46,8 @@ Seminar "Constitutional Law II" (fundamental rights law), Humboldt University Be
 Seminar "Constitutional Law I" (law of state institutions), Humboldt University Berlin, 2021
 
 ### Academic
+Organization of the "Rountable on Large Language Models, Law & Policy", hosted by the Information Law Institute @ NYU and the Center for Democracy and Technology, July 2023
+
 Organization of a conference and moderation of a discussion on AI regulation with Prof. Philipp Hacker and Prof. Mireille Hildebrandt, "Markets, Governance and European Law in the Algorithmic Era" Conference, July 2021
 
 Moderation of a panel discussion on electoral law, Law & Society Institute, Berlin, April 2021
