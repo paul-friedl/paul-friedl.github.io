@@ -17,6 +17,8 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations
+"Rethinking Language Model Governance", Weizenbaum Institute, Berlin, September 2023 [[slides](https://docs.google.com/presentation/d/1ZxDqQB3DgJzIEqBBNRJT4Llah5ixdDWWBhg7bKdaVCg/edit?usp=sharing)]
+
 "The EU's AI Act and its potential implications for Large Language Models", Roundtable on LLMs, Law & Policy, New York, July 2023
 
 "Dis/similarities in the Design and Development of Legal and Algorithmic Normative Systems: the Case of Perspective API”
