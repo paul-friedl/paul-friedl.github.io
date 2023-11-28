@@ -17,6 +17,8 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations
+"Escaping Scraping: The (New) Laws and Politics of Web Scraping in an Age of Generative AI", DigiMeet 2023, Online, November 2023
+
 "Rethinking Language Model Governance", Weizenbaum Institute, Berlin, September 2023 [[slides](https://docs.google.com/presentation/d/1ZxDqQB3DgJzIEqBBNRJT4Llah5ixdDWWBhg7bKdaVCg/edit?usp=sharing)]
 
 "The EU's AI Act and its potential implications for Large Language Models", Roundtable on LLMs, Law & Policy, New York, July 2023
