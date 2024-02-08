@@ -7,6 +7,8 @@ You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https:
 ## Publications
 Paul Friedl and Julian Morgan (forthcoming 2024) "Decentralised Content Moderation", [_Glossary of decentralised technosocial systems_](https://policyreview.info/glossary)
 
+Paul Friedl and Gustavo Gil Gasiola (2024) "[Examining the EU's Artificial Intelligence Act](https://verfassungsblog.de/examining-the-eus-artificial-intelligence-act/)", _Verfassungsblog_, 2024/2/07, DOI: 10.59704/789d6ad759d0a40b.
+
 Paul Friedl (2023) "[Dis/similarities in the design and development of legal and algorithmic normative systems: the case of Perspective API](https://www.tandfonline.com/doi/full/10.1080/17579961.2023.2184134)", _Law, Innovation and Technology_ 15(1), 25-59, DOI: 10.1080/17579961.2023.2184134.
 
 Paul Friedl (2022) "[Privacy Law and the Social Construction of Identity: An Interrelated History](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003154556-5/privacy-law-social-construction-identity-paul-friedl?context=ubx&refId=622f4c9b-44c2-4f7c-bff9-937d49e2f189)", in: Jill Marshall (ed.), "Personal Identity and the European Court of Human Rights" (Routledge 2022)
