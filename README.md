@@ -7,7 +7,7 @@ You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https:
 ## Publications
 Paul Friedl and Julian Morgan (forthcoming 2024) "Decentralised Content Moderation", [_Glossary of decentralised technosocial systems_](https://policyreview.info/glossary)
 
-Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report"](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law
+Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law
 
 Paul Friedl and Gustavo Gil Gasiola (2024) "[Examining the EU's Artificial Intelligence Act](https://verfassungsblog.de/examining-the-eus-artificial-intelligence-act/)", _Verfassungsblog_, 2024/2/07, DOI: 10.59704/789d6ad759d0a40b.
 
