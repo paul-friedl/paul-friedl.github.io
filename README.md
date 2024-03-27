@@ -22,8 +22,8 @@ Paul Friedl (2019) "[New Laws of Forgetting: The German Constitutional Court on 
 Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in: Dimitri Kessler & Elgin Keskin (eds.), "[Regulierung des Wirtschaftslebens in Deutschland und der Ukraine](https://www.beck-shop.de/kessler-keskin-regulierung-wirtschaftslebens-strafrecht-deutschland-ukraine/product/16689034)"
 
 
-## Talks and presentations
-"Escaping Scraping: The (New) Laws and Politics of Web Scraping in an Age of Generative AI", DigiMeet 2023, Online, November 2023
+## Talks and presentations 
+"Escaping Scraping: The (New) Laws and Politics of Web Scraping in an Age of Generative AI", DigiMeet 2023, Online, November 2023 [[slides](https://docs.google.com/presentation/d/1ZXywqoThLQ1B4vK-FjmCpOSyMjd5km33X-fOR8WrZlg/edit#slide=id.p)]
 
 "Rethinking Language Model Governance", Weizenbaum Institute, Berlin, September 2023 [[slides](https://docs.google.com/presentation/d/1ZxDqQB3DgJzIEqBBNRJT4Llah5ixdDWWBhg7bKdaVCg/edit?usp=sharing)]
 
