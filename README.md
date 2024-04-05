@@ -5,9 +5,9 @@ I'm a legal researcher with a focus on data and technology law. After having com
 You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https://mastodon.social/@paulfriedl), [LinkedIn](https://www.linkedin.com/in/paul-friedl/) and [Google Scholar](https://scholar.google.de/citations?user=Qtv_oL0AAAAJ&hl=de) or send me an email on [myfirstname].[mylastname]@hu-berlin.de.
 
 ## Publications
-Paul Friedl and Julian Morgan (forthcoming 2024) "Decentralised Content Moderation", [_Glossary of decentralised technosocial systems_](https://policyreview.info/glossary)
+Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation"](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
 
-Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law
+Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law.
 
 Paul Friedl and Gustavo Gil Gasiola (2024) "[Examining the EU's Artificial Intelligence Act](https://verfassungsblog.de/examining-the-eus-artificial-intelligence-act/)", _Verfassungsblog_, 2024/2/07, DOI: 10.59704/789d6ad759d0a40b.
 
@@ -23,6 +23,8 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations 
+"Foundation Models under the EU AI Act", Comillas Universidad Pontificia, Madrid, April 2024 (invited talk) [[slides](https://docs.google.com/presentation/d/1udGfnR5mQCyiLJHKeZ4rVds2d1UGE7YhuFpI2R7uqNo/edit#slide=id.p)] | [[video](https://tv.comillas.edu/media/Seminario+C%C3%A1tedra+Fundaci%C3%B3n+Notario+03+04+2024/1_375fpabk)]
+
 "Escaping Scraping: The (New) Laws and Politics of Web Scraping in an Age of Generative AI", DigiMeet 2023, Online, November 2023 [[slides](https://docs.google.com/presentation/d/1ZXywqoThLQ1B4vK-FjmCpOSyMjd5km33X-fOR8WrZlg/edit#slide=id.p)]
 
 "Rethinking Language Model Governance", Weizenbaum Institute, Berlin, September 2023 [[slides](https://docs.google.com/presentation/d/1ZxDqQB3DgJzIEqBBNRJT4Llah5ixdDWWBhg7bKdaVCg/edit?usp=sharing)]
