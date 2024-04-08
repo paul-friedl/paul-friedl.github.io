@@ -5,7 +5,7 @@ I'm a legal researcher with a focus on data and technology law. After having com
 You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https://mastodon.social/@paulfriedl), [LinkedIn](https://www.linkedin.com/in/paul-friedl/) and [Google Scholar](https://scholar.google.de/citations?user=Qtv_oL0AAAAJ&hl=de) or send me an email on [myfirstname].[mylastname]@hu-berlin.de.
 
 ## Publications
-Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation"](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
+Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
 
 Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law.
 
