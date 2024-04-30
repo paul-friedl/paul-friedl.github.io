@@ -51,6 +51,8 @@ Here's my [CV](./cv_paulfriedl.pdf) and here's a [German version](./vc_paulfried
 
 ## Work
 ### Teaching
+"Human and Fundamental Rights in the Digital Era: Current Challenges", Karlsruhe Institute of Technology, 2024
+
 "Law in the Age of Algorithms: Interdisciplinary Investigations" [[Syllabus](./litaoa_friedl_syllabus.pdf)], Humboldt Summer University, 2022
 
 Seminar "Constitutional Law II" (fundamental rights law), Humboldt University Berlin, 2022
