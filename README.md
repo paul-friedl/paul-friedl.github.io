@@ -46,7 +46,7 @@ Wissenschaftszentrum Berlin für Sozialforschung, Berlin, June 2022
 "Privacy Law and the Social Construction of Identity: An Interrelated History", World Conference of the International Association for
 Philosophy of Law and Social Philosophy, Lucerne, July 2019
 
-## CV
+## Curriculum Vitae
 Here's my [CV](./cv_paulfriedl.pdf) and here's a [German version](./vc_paulfriedl_german) of it.
 
 ## Work
