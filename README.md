@@ -23,6 +23,8 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations 
+"Decentralised Content Moderation", Young Digital Law Conference 2024, Sciences Po, Paris, June 2024 [[slides](https://docs.google.com/presentation/d/1wY6QQUP0ExIEfY9Eq5GuoQgL1VzObegIuWOdIT_VYI4/edit?usp=sharing)]
+
 "Foundation Models under the EU AI Act", Comillas Universidad Pontificia, Madrid, April 2024 (invited talk) [[slides](https://docs.google.com/presentation/d/1udGfnR5mQCyiLJHKeZ4rVds2d1UGE7YhuFpI2R7uqNo/edit#slide=id.p)] | [[video](https://tv.comillas.edu/media/Seminario+C%C3%A1tedra+Fundaci%C3%B3n+Notario+03+04+2024/1_375fpabk)]
 
 "Escaping Scraping: The (New) Laws and Politics of Web Scraping in an Age of Generative AI", DigiMeet 2023, Online, November 2023 [[slides](https://docs.google.com/presentation/d/1ZXywqoThLQ1B4vK-FjmCpOSyMjd5km33X-fOR8WrZlg/edit#slide=id.p)]
