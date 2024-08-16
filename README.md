@@ -1,10 +1,12 @@
 # Paul Friedl
 ![Me (Paul Friedl)](/profile.jpg)
 ## About
-I'm a legal researcher with a focus on data and technology law. After having completed my JSD at [Humboldt University Berlin](https://www.rewi.hu-berlin.de/en/lf/oe/rhp/dynaminthome) supervised by [Prof. Martin Eifert](https://www.bundesverfassungsgericht.de/DE/Richter/Erster-Senat/BVR-Prof-Dr-Eifert/bvr-prof-dr-eifert_node.html), I am currently a clerk with the Berlin regional court as well as a post-doctoral researcher at [Karlsruhe Institute of Technology](https://lawcs.zar.kit.edu/) and an affiliate researcher at the [Information Law Institute](https://www.law.nyu.edu/centers/ili) at New York University. My research mostly concerns law's impacts on data and internet governance, with a special focus on the governance of AI. Some of my publications also address other issues of (European) public law, specifically human and fundamental rights law.
+I'm a legal researcher with a focus on data and technology law. After having completed my JSD at [Humboldt University Berlin](https://www.rewi.hu-berlin.de/en/lf/oe/rhp/dynaminthome) supervised by [Prof. Martin Eifert](https://www.bundesverfassungsgericht.de/DE/Richter/Erster-Senat/BVR-Prof-Dr-Eifert/bvr-prof-dr-eifert_node.html), I am currently a clerk with Germany's Ministry of Justice as well as a post-doctoral researcher at [Karlsruhe Institute of Technology](https://lawcs.zar.kit.edu/) and an affiliate researcher at the [Information Law Institute](https://www.law.nyu.edu/centers/ili) at New York University. My research mostly concerns law's impacts on data and internet governance, with a special focus on the governance of AI. Some of my publications also address other issues of (European) public law, specifically human and fundamental rights law.
 You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https://mastodon.social/@paulfriedl), [LinkedIn](https://www.linkedin.com/in/paul-friedl/) and [Google Scholar](https://scholar.google.de/citations?user=Qtv_oL0AAAAJ&hl=de) or send me an email on [myfirstname].[mylastname]@hu-berlin.de.
 
-## Publications
+I'm currently on the advisory board of the Verfassungsblog, responsible for contributions on data law and artificial intelligence. **If you are interested in publishing with the Verfassungsblog on these issues, please send me a message.**
+
+## Publications.
 Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
 
 Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law.
@@ -79,7 +81,7 @@ Philosophy of Law and Social Philosophy, Lucerne, July 2019
 Legal support (drafting of bill proposals, drafting of court briefs, legal advising) for a Berlin grassroots movement working towards reducing motorized transport within the city of Berlin, 2019-today
 
 ## Misc
-**Music** is life, which is why I really like it. If you're looking for a playlist that includes both annoyingly wonderful radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7).
+**Music** is life. If you're in need of a playlist that includes both annoyingly wonderful radio pop and 17-minute-ambient-pieces, you might like [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=3aeb89b1858a40ca) or [this one](https://open.spotify.com/playlist/23SfFqM1jvFDVQvM2KLU1S?si=7776dffff54341b7]).
 
 **Movies**, too, are life and sometimes when I watch one I list and review it [here](https://mubi.com/users/11360000).
 
