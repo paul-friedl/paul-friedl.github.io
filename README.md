@@ -6,7 +6,9 @@ You can find me on [Twitter](https://twitter.com/paulfriedl4), [Mastodon](https:
 
 I'm currently on the advisory board of the Verfassungsblog, responsible for contributions on data law and artificial intelligence. **If you are interested in publishing with the Verfassungsblog on these issues, please send me a message.**
 
-## Publications.
+## Publications
+Paul Friedl and Louis Rolfes (2024) "[Datenschutz gegen digitalen Autoritarismus](https://verfassungsblog.de/datenschutz-gegen-digitalen-autoritarismus/)", _Verfassungsblog (Thüringen-Projekt)_, 2024/8/21.
+
 Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
 
 Paul Friedl and Gabriel Nicholas (2024) "[Regulating Large Language Models: A Roundtable Report](https://cdt.org/wp-content/uploads/2024/02/2024-02-13-Regulating-Large-Language-Models-Roundtable-Report-2.pdf)", Report by the Center for Democracy & Technology and the Information Law Institute @ NYU Law.
