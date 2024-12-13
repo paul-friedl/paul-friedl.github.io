@@ -53,7 +53,7 @@ Wissenschaftszentrum Berlin für Sozialforschung, Berlin, June 2022
 Philosophy of Law and Social Philosophy, Lucerne, July 2019
 
 ## Curriculum Vitae
-Here's my [CV](./cv_paulfriedl.pdf) and here's a [German version](./vc_paulfriedl_german) of it.
+Here's my [CV] and here's a [German version] of it.
 
 ## Work
 ### Teaching
