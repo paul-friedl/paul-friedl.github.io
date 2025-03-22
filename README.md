@@ -7,6 +7,8 @@ You can find me on [bluesky](https://bsky.app/profile/paulfriedl.bsky.social), [
 I'm currently on the advisory board of the Verfassungsblog, responsible for contributions on data law and artificial intelligence. **If you are interested in publishing with the Verfassungsblog on these issues, please send me a message.**
 
 ## Publications
+Paul Friedl (2025) "[Reasonable Expectations of Privacy](https://link.springer.com/book/10.1007/978-3-031-84881-0)" (Springer)
+
 Paul Friedl and Louis Rolfes (2024) "[Datenschutz gegen digitalen Autoritarismus](https://verfassungsblog.de/datenschutz-gegen-digitalen-autoritarismus/)", _Verfassungsblog (Thüringen-Projekt)_, 2024/8/21.
 
 Paul Friedl and Julian Morgan (2024) "[Decentralised Content Moderation](https://policyreview.info/glossary/decentralised-content-moderation)",  _Internet Policy Review_ 13(2), DOI: 10.14763/2024.2.1754.
