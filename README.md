@@ -29,6 +29,10 @@ Paul Friedl (2016). "Deutschland und Ukraine: Datenschutzrecht im Vergleich", in
 
 
 ## Talks and presentations 
+Interview with [The Atlantic](https://www.theatlantic.com/) about Community Notes and similar online moderation tools, [article](https://www.theatlantic.com/technology/archive/2025/05/meta-community-notes/682695/)
+
+"Legal Consciousness in Tech Communities", Örebro University, April 2025
+
 "Decentralised Content Moderation", Young Digital Law Conference 2024, Sciences Po, Paris, June 2024 [[slides](https://docs.google.com/presentation/d/1wY6QQUP0ExIEfY9Eq5GuoQgL1VzObegIuWOdIT_VYI4/edit?usp=sharing)]
 
 "Foundation Models under the EU AI Act", Comillas Universidad Pontificia, Madrid, April 2024 (invited talk) [[slides](https://docs.google.com/presentation/d/1udGfnR5mQCyiLJHKeZ4rVds2d1UGE7YhuFpI2R7uqNo/edit#slide=id.p)] | [[video](https://tv.comillas.edu/media/Seminario+C%C3%A1tedra+Fundaci%C3%B3n+Notario+03+04+2024/1_375fpabk)]
